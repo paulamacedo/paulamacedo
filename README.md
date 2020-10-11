@@ -1,16 +1,13 @@
-### Hi there 👋
+### Olá! Hi! Servus! Hallo! :sunflower: :sunflower: :sunflower:
 
-<!--
-**paulamacedo/paulamacedo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+:woman_technologist: : I am Paula and currently I am a computer science student at Federal University of Rio de Janeiro. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+:heart_decoration: : I love learning about new cultures, languages and technologies. 
+
+:books: : Here you can find, some old projects or exercises' resolutions of courses that I took at University.
+
+
+
+
+ 
