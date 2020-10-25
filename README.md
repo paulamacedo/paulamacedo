@@ -5,7 +5,7 @@
 
 :heart_decoration: : I love learning about new cultures, languages and technologies. 
 
-:books: : Here you can find, some old projects or exercises' resolutions of courses that I took at University.
+:books: : Here you can find some old projects or exercises' resolutions of courses that I took at University.
 
 
 
